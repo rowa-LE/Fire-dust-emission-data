@@ -1,4 +1,4 @@
-## Data used to simulate dust emission in the context of fire-modulated wind field
+## Datasets related to the paper "The dust emission potential of agricultural-like fires - theoretical estimates from two conceptually different dust emission parameterizations"
 
 This repository contains the dataset of the key wind field properties such as the friction velocity u* and the instantaneous momentum flux as well as the dust emission fluxes caused by saltation bombardment (SALT) and those by convective-turbulent motions (CTDE) for all 14 simulations that are used for the analysis and plots of the paper draft of Wagner et al. entitled as "The dust emission potential of agricultural-like fires - theoretical estimates from two conceptually different dust emission parameterizations" that is submitted to JGR.
 
