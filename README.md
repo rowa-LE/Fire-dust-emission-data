@@ -1,6 +1,6 @@
 This repository contains the dataset of the key wind field properties such as the friction velocity and the instantanous momentum flux as well as the dust emission fluxes caused by saltation bombardment (SALT) and those by convective-turbulent motions (CTDE) for all 14 simualtions that are used for the analysis and plots of the paper draft of Wagner et al. entitled as "The dust emission potential of agricultural-like fires - theoretical estimates from two conceptually different dust emission parameterizations" that is submitted to JGR.
 
-The individual simulations are entitled as Fire_00 - Fire_13, whereby Fire_01 serves as a reference case that is also used to create Figure 1, while all other simulations deviate from it concerning the averaged geostrophic wind velocity, fire intensity, or fire size as indicated in the list below. Additionally, a non-fire simulation (Fire_00) similar to Fire_01 is included.
+The individual simulations are entitled as Fire_00 - Fire_13, whereby Fire_01 serves as a reference case that is also used to create Figure 1, while all other simulations deviate from it concerning the averaged geostrophic wind velocity, fire intensity, or fire size as indicated in the list below. Additionally, a non-fire simulation (Fire_00) similar to Fire_01 is included. All data are given as .nc-files.
 
 Fire_00		NO-FIRE simulation, similar to Fire_01 but with no fire
 Fire_01		mean ambient wind speed (geostrophic wind) of 3 m/s, F_Fire=150 kW/m2, A_Fire=7,000 m2; reference simulation, used for Figure 1 
